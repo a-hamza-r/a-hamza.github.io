@@ -31,6 +31,14 @@ redirect_from:
   * Red X: error
   * No icon: not built
 
+## What a few of the files do
+
+* _layouts/single.html: Layout for single item pages for teaching and publications (and possibly other single pages I do not currently use yet)
+* _include/archive-single.html: Layout for Publications and Teaching pages
+* _include/archive-single-cv.html: to show Publications and Teachings on CV page
+* markdown_generator/publications.tsv: add publications to rows in the file, run publications.py in the same directory and it creates corresponding files for publications in _publications/ directory
+
+
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my resume](/files/resume.pdf)
+
 Education
 ======
 * Intermediate in Sciences, Government College University (GCU), 2014
