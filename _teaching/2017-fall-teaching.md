@@ -1,18 +1,15 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate Course"
+type: "Operating Systems Undergraduate Course"
 permalink: /teaching/CS-370
 venue: "Computer Science, LUMS"
-date: 2017-08-31
+date: Fall 2017
 location: "Lahore, PK"
 ---
 
-Heading 1
+Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Assisting students with programming assignments and course content
+* Grading course instruments
+* Proctor exams
