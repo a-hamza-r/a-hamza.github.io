@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : hamzzzu
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -84,17 +84,17 @@ author:
   avatar           : "profile.png"
   bio              : "A Computer Science student, with research focus in Software Verification"
   location         : "Tallahassee, FL, US"
-  employer         :
+  employer         : "Florida State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ameer-Hamza-47"
   uri              :
-  bitbucket        :
+  bitbucket        :  
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  "https://www.facebook.com/hamzzzu"
   foursquare       :
   github           : "a-hamza-r"
   google_plus      :
