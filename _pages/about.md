@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+I am a PhD student at [Florida State University](https://www.fsu.edu/), [Department of Computer Science](https://www.cs.fsu.edu/). I am currently working at the Formal Methods Group, under the guidance of [Dr. Grigory Fedyukovich](http://www.cs.fsu.edu/~grigory/). I started my PhD prorgam in August 2018. I began working at Formal Methods Group in May 2020. 
 
+My area of research interests and expertise are: Formal Methods, Program Analysis and Software Verification. My current focus is on Equivalence Checking of Programs. I am open to working on any projects in the forementioned fields. 
