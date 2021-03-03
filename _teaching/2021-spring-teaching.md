@@ -8,11 +8,8 @@ date: 2021-01-06
 location: "Tallahassee, US"
 ---
 
-Heading 1
+Responsibilities
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Teaching recitation classes
+* Assist students with assignments and course content
+* Grading course instruments
