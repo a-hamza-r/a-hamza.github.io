@@ -4,7 +4,8 @@ collection: teaching
 type: "Software Engineering Undergraduate Course"
 permalink: /teaching/CEN-4020-1
 venue: "Computer Science, FSU"
-date: Fall 2019
+date: 2019-08-26
+term: Fall 2019
 location: "Tallahassee, US"
 ---
 

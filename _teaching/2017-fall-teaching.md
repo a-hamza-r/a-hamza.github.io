@@ -4,7 +4,8 @@ collection: teaching
 type: "Operating Systems Undergraduate Course"
 permalink: /teaching/CS-370
 venue: "Computer Science, LUMS"
-date: Fall 2017
+date: 2017-08-30
+term: Fall 2017
 location: "Lahore, PK"
 ---
 

@@ -88,7 +88,7 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    md += "\nsubmitted: '" + html_escape(item.submitted) + "'"
+    md += "\npublished: '" + html_escape(item.published) + "'"
     
     md += "\n---"
     
