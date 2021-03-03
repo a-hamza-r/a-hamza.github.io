@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my resume](/files/resume.pdf)
+[Download my resume](a-hamza.github.io/files/resume.pdf)
 
 Education
 ======
