@@ -9,8 +9,7 @@ term: Spring 2021
 location: "Tallahassee, US"
 ---
 
-Responsibilities
-======
-* Teaching recitation classes
-* Assist students with assignments and course content
-* Grading course instruments
+* Responsibilities
+  * Teaching recitation classes
+  * Assist students with assignments and course content
+  * Grading course instruments
