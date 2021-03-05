@@ -9,8 +9,7 @@ term: Fall 2017
 location: "Lahore, PK"
 ---
 
-Responsibilities
-======
-* Assisting students with programming assignments and course content
-* Grading course instruments
-* Proctor exams
+* Responsibilities
+  * Assisting students with programming assignments and course content
+  * Grading course instruments
+  * Proctor exams

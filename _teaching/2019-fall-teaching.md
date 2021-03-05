@@ -9,9 +9,8 @@ term: Fall 2019
 location: "Tallahassee, US"
 ---
 
-Responsibilities
-======
-* Teaching recitation classes
-* Assist students with assignments/projects and course content
-* Grading course instruments
-* Proctor exams
+* Responsibilities
+  * Teaching recitation classes
+  * Assist students with assignments/projects and course content
+  * Grading course instruments
+  * Proctor exams
