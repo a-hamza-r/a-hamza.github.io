@@ -15,4 +15,4 @@ My area of research interests and expertise are: Formal Methods, Program Analysi
 
 In my free time, I like to watch TV series, play video games ([CSGO](https://blog.counter-strike.net/)) and play card/board games. 
 I love to spend my time looking at memes on the internet. Here's one related to Computer Science: 
-<img src='/images/meme.jpg'>
+<br/><img src='https://a-hamza-r.github.io/a-hamza.github.io/images/meme.jpg'>
