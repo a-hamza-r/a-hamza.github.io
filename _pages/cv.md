@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my resume](/files/resume.pdf)
+[Download my resume](https://a-hamza-r.github.io/a-hamza.github.io/files/resume.pdf)
 
 Education
 ======
 * Intermediate in Sciences, Government College University (GCU), 2014
 * B.S. in Computer Science, Lahore University of Management Sciences (LUMS), 2018
+  * <b>Relevant Coursework</b>: Software Engineering, Intro to Program Analysis, Network-Centric Computing, Advanced Programming, High Performance Computing, Algorithms, Data Structures, Intro to Artificial Language
+  * <b>Senior-Year Project Advisor</b>: [https://www.junaidharoonsiddiqui.com/](Dr. Junaid Haroon Siddiqui)
 * Ph.D in Computer Science, Florida State University (FSU), 2024 (expected)
+  * <b>Relevant Coursework</b>: Graduate Software Engineering, Computer-Aided Verification, Advanced Algorithms, Deep and Reinforcement Learning, Data Mining
+  * <b>Research Advisor</b>: [https://www.cs.fsu.edu/~grigory/](Dr. Grigory Fedyukovich) 
 
 Work experience
 ======
