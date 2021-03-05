@@ -14,17 +14,17 @@ redirect_from:
 Education
 ======
 * Government College University (GCU)
-  * Intermediate in Sciences
+  * <b>Degree</b>: Intermediate in Sciences
   * <b>Graduated in</b>: 2014
 
 * Lahore University of Management Sciences (LUMS)
-  * B.S. in Computer Science
+  * <b>Degree</b>: B.S. in Computer Science
   * <b>Graduated in</b>: 2018
   * <b>Relevant Coursework</b>: Software Engineering, Intro to Program Analysis, Network-Centric Computing, Advanced Programming, High Performance Computing, Algorithms, Data Structures, Intro to Artificial Language
   * <b>Senior-Year Project Advisor</b>: [Dr. Junaid Haroon Siddiqui](https://www.junaidharoonsiddiqui.com/)
 
 * Florida State University (FSU)
-  * Ph.D in Computer Science
+  * <b>Degree</b>: Ph.D in Computer Science
   * <b>Expected graduation in</b>: 2024
   * <b>Relevant Coursework</b>: Graduate Software Engineering, Computer-Aided Verification, Advanced Algorithms, Deep and Reinforcement Learning, Data Mining
   * <b>Research Advisor</b>: [Dr. Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/) 
